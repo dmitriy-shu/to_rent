@@ -1,0 +1,10 @@
+.info__item-blog {
+  margin-bottom: 21px;
+  
+}
+
+.info__item-blog:last-child {
+  margin-bottom: 0;
+  
+}
+

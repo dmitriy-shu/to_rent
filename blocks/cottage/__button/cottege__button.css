@@ -1,0 +1,12 @@
+.cottege__button {
+  font-family: "PT Serif", serif;
+  background-color: #000;
+  font-size: 18px;
+  line-height: 1;
+  font-weight: 400;
+  color: #fff;
+  border: none;
+  padding: 17px 18px 16px 17px;
+  margin-top: 15px;
+  cursor: pointer;
+}

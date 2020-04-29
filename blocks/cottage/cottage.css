@@ -1,0 +1,9 @@
+@import url(./__content/cottage__content.css);
+@import url(./__title/cottage__title.css);
+@import url(./__button/cottege__button.css);
+
+
+.cottage {
+  background-image: url(../../image/cottage.jpg);
+  height: 1080px;
+}

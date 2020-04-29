@@ -1,0 +1,9 @@
+.footer__button {
+  width: 150px;
+  height: 70px;
+  background-color: #c4c4c4;
+  color: #ffffff;
+  padding: 28px 33px 26px 37px;
+  border: none;
+  cursor: pointer;
+}

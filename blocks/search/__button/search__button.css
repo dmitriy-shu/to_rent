@@ -1,0 +1,24 @@
+.search__button {
+  width: 121px;
+  height: 70px;
+  border: none;
+  font-family: "Roboto Condensed", serif;
+  font-size: 24px;
+  line-height: 1;
+  color: #ffffff;
+  padding: 23px 23px 23px 36px;
+  background-color: #c4c4c4;
+  cursor: pointer;
+  position: relative;
+
+}
+.search__button::before {
+  content: "";
+  position: absolute;
+  top: 28px;
+  left: 9px;
+  width: 18px;
+  height: 18px;
+  background-image: url(../../../image/search.svg);
+  
+}

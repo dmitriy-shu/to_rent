@@ -1,0 +1,21 @@
+@import url(./__content/footer__content.css);
+@import url(./__list/footer__list.css);
+@import url(./__item/footer__item.css);
+@import url(./__link/footer__link.css);
+@import url(./__form/footer__form.css);
+@import url(./__label/footer__label.css);
+@import url(./__input/footer__input.css);
+@import url(./__button/footer__button.css);
+@import url(./__logo/footer__logo.css);
+@import url(./__container/footer__container.css);
+
+
+
+
+.footer {
+  background-color: #000;
+  padding: 202px 0 0 0;
+}
+
+
+

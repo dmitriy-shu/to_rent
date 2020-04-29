@@ -1,0 +1,19 @@
+@import url(./__list/info__list.css);
+@import url(./__list-item/info__list-item.css);
+@import url(./__list-item/_size-xl/info__list-item_size-xl.css);
+@import url(./__list-manager/info__list-manager.css);
+@import url(./__image-manager/info__image-manager.css);
+@import url(./__title/info__title.css);
+@import url(./__subtitle/info__subtitle.css);
+@import url(./__button-contact/info__button-contact.css);
+@import url(./__text/info__text.css);
+@import url(./__list-blog/info__list-blog.css);
+@import url(./__item-blog/info__item-blog.css);
+@import url(./__link/info__link.css);
+@import url(./__image-reviews/info__image-reviews.css);
+@import url(./__button-reviews/info__button-reviews.css);
+
+.info {
+  background-color: #000;
+  padding-top: 100px;
+}

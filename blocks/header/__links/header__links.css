@@ -1,0 +1,8 @@
+.header__links {
+  display: flex;
+  list-style-type: none;
+  justify-content: center;
+  margin: 0 auto;
+  padding: 0;
+
+}

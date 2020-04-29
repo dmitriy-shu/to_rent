@@ -1,0 +1,11 @@
+.search__input {
+  box-sizing: border-box;
+  width: 431px;
+  height: 70px;
+  padding: 0 15px 0 15px;
+  border: 2px solid #c4c4c4;
+  font-family: "Roboto Condensed", serif;
+  font-size: 18px;
+  line-height: 1.16;
+  color: #888888;
+}

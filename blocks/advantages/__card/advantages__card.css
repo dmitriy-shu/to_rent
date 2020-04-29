@@ -1,0 +1,7 @@
+.advantages__card {
+  margin-right: 113px;
+}
+
+.advantages__card:last-child {
+  margin-right: 0;
+}

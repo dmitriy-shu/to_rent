@@ -1,0 +1,28 @@
+.info__link {
+  font-size: 18px;
+    line-height: 1;
+    color: #ffffff;
+    margin-bottom: 22px;
+    text-decoration: none;
+  }
+
+  .info__link:hover {
+    color: #888888;
+    transition: color 1s ease;
+      
+    }
+  
+  .info__link:last-child {
+    margin-bottom: 9px;
+    
+  }
+  
+  .info__link::before {
+    content: "";
+    background-image: url(../../../image/info4.svg);
+    width: 30px;
+    height: 30px;
+    display: inline-block;
+    margin: 0 37px -9px 0;
+  
+  }

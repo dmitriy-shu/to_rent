@@ -1,0 +1,10 @@
+.info__button-contact {
+  font-size: 18px;
+  line-height: 1;
+  color: #000;
+  padding: 16px 21px;
+  background-color: #ffffff;
+  border: none;
+  cursor: pointer;
+  margin-top: 43px;
+}
